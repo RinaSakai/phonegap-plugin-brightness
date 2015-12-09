@@ -1,3 +1,5 @@
+このリポジトリは、Android環境での"android.permission.WRITE_SETTINGS"を無効化する為に作成したものです。
+
 phonegap-plugin-brightness
 ==========================
 
